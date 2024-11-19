@@ -4,8 +4,8 @@
 - Currently I am partaking my 42 Core Curriculum.
 - Trying to improve my coding and coding related soft skills.
 
-You can reach me in Discord under the username: loserkid#0001 
-or simply message me via Github.
+Simply message me via Github or on
+[LinkedIn](https://www.linkedin.com/in/maximilian-wagner-97886b328/)
 
 <!---
 mwagner86/mwagner86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
