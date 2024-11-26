@@ -1,8 +1,13 @@
-## 🌟 Welcome to Maximilian Wagner's GitHub Profile
+## Welcome to Maximilian Wagner's GitHub Profile
 Hi, I'm **Max**, a passionate student of coding and software engineering at **42 Wolfsburg**, part of the globally recognized **42 Network**.
 
 I've finished the **42 Core Curriculum** and started my IT-Security studies at TH-Brandenburg.
 
+---
+
+- 🌟 Proficient in **C**, **Java**, **Python**, and **C++**, with hands-on experience in **web development** and **cybersecurity practices**.
+- 🚀 Currently exploring **penetration testing**, **network security**, and **secure coding techniques**.
+  
 ---
 
 ### 💻 About Me
@@ -11,9 +16,6 @@ I've finished the **42 Core Curriculum** and started my IT-Security studies at T
 - 🤝 Open to collaboration and networking.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maximilian-wagner-97886b328/) or drop a message here on GitHub!
-
-- 🌟 Proficient in **C**, **Java**, **Python**, and **C++**, with hands-on experience in **web development** and **cybersecurity practices**.
-- 🚀 Currently exploring **penetration testing**, **network security**, and **secure coding techniques**.
 
 ---
 
