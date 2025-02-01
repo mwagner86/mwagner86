@@ -22,7 +22,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maximilia
 ### 🔥 Highlighted Projects
 Here are some of my favorite repositories:
 
-- [**Transcendence**](link-to-repo)  
+- [**Transcendence**]([link-to-repo](https://github.com/mwagner86/trungscendence))  
   📚 *A real-time multiplayer PONG game with chat application, user authentication and database interaction.*  
   *Key Features:* Single Page Application of PONG with Multi-user chat, and OAuth features.  
   *Tech Stack:* Django Framework, Javascript, Python, Docker, PostgreSQL.
