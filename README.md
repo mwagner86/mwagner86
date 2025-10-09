@@ -1,7 +1,8 @@
 ## Welcome to Maximilian Wagner's GitHub Profile
 Hi, I'm **Max**, a passionate student of coding and software engineering at **42 Wolfsburg**, part of the globally recognized **42 Network**.
 
-I've finished the **42 Core Curriculum** and started my IT-Security studies at TH-Brandenburg.
+I have completed the **42 Core Curriculum** and have begun my IT Security studies at **TH Brandenburg**.  
+Currently, I'm an intern in the **Information Security Department at PowerCo**, where I focus on gaining a broad understanding of cybersecurity-related topics. My goal is to specialize in **automation** and **penetration testing techniques**.
 
 ---
 
