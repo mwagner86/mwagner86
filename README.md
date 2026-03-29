@@ -1,50 +1,41 @@
-## Welcome to Maximilian Wagner's GitHub Profile
-Hi, I'm **Max**, a passionate student of coding and software engineering at **42 Wolfsburg**, part of the globally recognized **42 Network**.
+# Maximilian Wagner
+**Information Security | GRC & Automation | CS Student**
+---
 
-I have completed the **42 Core Curriculum** and have begun my IT Security studies at **TH Brandenburg**.  
-Currently, I'm an intern in the **Information Security Department at PowerCo**, where I focus on gaining a broad understanding of cybersecurity-related topics. My goal is to specialize in **automation** and **penetration testing techniques**.
+### Professional Profile
+* **Current Focus:** Intern at **PowerCo (Information Security Department)**, specializing in GRC frameworks and cybersecurity operations.
+* **Education:** * IT Security Studies at **TH Brandenburg** (Technical University of Applied Sciences).
+    * Alumnus of the **42 Core Curriculum** (42 Wolfsburg / 42 Network).
+* **Core Competencies:** Information Security Management Systems (ISMS), Security Automation, and Technical Auditing.
 
 ---
 
-- 🌟 Proficient in **C**, **Java**, **Python**, and **C++**, with hands-on experience in **web development** and **cybersecurity practices**.
-- 🚀 Currently exploring **penetration testing**, **network security**, and **secure coding techniques**.
-  
----
-
-### 💻 About Me
-- 🛠️ Constantly learning and growing in the world of Tech.
-- 🌱 Interested in **software engineering**, **IT-Security**, and **best IT practices**.
-- 🤝 Open to collaboration and networking.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/maximilian-wagner-97886b328/) or drop a message here on GitHub!
+### Technical Skills & Domains
+* **Governance & Compliance:** Developing a profound understanding of security frameworks, risk assessment methodologies, and regulatory requirements within an enterprise environment.
+* **Security Engineering:** Scripting and automation of security workflows to enhance operational efficiency.
+* **Programming:** Proficient in **C**, **C++**, **Python**, and **Java**.
+* **Infrastructure:** Experience with **Docker**, Network Security, and Secure Coding practices.
 
 ---
 
-### 🔥 Highlighted Projects
-Here are some of my favorite repositories:
+### Key Projects
 
-- [**Transcendence**](https://github.com/mwagner86/trungscendence)  
-  📚 *A real-time multiplayer PONG game with chat application, user authentication and database interaction.*  
-  *Key Features:* Single Page Application of PONG with Multi-user chat, OAuth features and Data-Metrics using ELK.  
-  *Tech Stack:* Django Framework, Javascript, Python, Docker, PostgreSQL, ELK Stack.
+#### [Transcendence](https://github.com/mwagner86/trungscendence)
+*Real-time Multiplayer Platform & Security Integration*
+* **Description:** Single Page Application (SPA) featuring OAuth 2.0 authentication, real-time data processing, and centralized logging.
+* **Technical Highlights:** Implementation of the **ELK Stack** for data metrics and monitoring, PostgreSQL for persistent storage, and Django for backend logic.
+* **Stack:** Python, Django, JavaScript, Docker, ELK.
 
-- [**Webserver in C++**](https://github.com/mwagner86/42webserv)  
-  🔒 *Our own little webserver written in C++*  
-  *Key Features:* NGINX like configuration syntax.  
-  *Tech Stack:* C++, Docker, Python.
+#### [Webserver C++](https://github.com/mwagner86/42webserv)
+*High-Performance HTTP Server*
+* **Description:** Developed a functional HTTP/1.1 web server from scratch, mirroring NGINX-like configuration and non-blocking I/O.
+* **Security Relevance:** Deep dive into protocol parsing, socket management, and resource isolation.
+* **Stack:** C++, Docker, Python.
 
 ---
 
-### 📊 GitHub Stats
-<!-- Optionally, add GitHub stats -->
+### Statistics & Connectivity
 ![Maximilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwagner86&show_icons=true&theme=radical)
 
----
-
-Thank you for visiting my GitHub profile!
-
-
-<!---
-mwagner86/mwagner86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **LinkedIn:** [Maximilian Wagner](https://www.linkedin.com/in/wagnermaximilian/)
+* **Focus Areas:** GRC, Pentesting, Automation, Cloud Security.
