@@ -34,8 +34,7 @@
 
 ---
 
-### Statistics & Connectivity
-![Maximilian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwagner86&show_icons=true&theme=radical)
+### Connect with me
 
 * **LinkedIn:** [Maximilian Wagner](https://www.linkedin.com/in/wagnermaximilian/)
 * **Focus Areas:** GRC, Pentesting, Automation, Cloud Security.
